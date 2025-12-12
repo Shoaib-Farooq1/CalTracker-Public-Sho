@@ -74,7 +74,7 @@ Proprietary software - unauthorized use prohibited.
 
 ## License
 
-**© 2024 Sho (Shoaib). All Rights Reserved.**
+**© 2025 Sho (Shoaib). All Rights Reserved.**
 
 This software is proprietary and confidential.  
 Unauthorized copying, distribution, or modification is strictly prohibited.
