@@ -89,8 +89,8 @@ Unauthorized copying, distribution, or modification is strictly prohibited.
 
 ## Development Timeline
 
-- **December 8, 2024:** Project started
-- **December 12, 2024:** v1.0.0 released
+- **December 8, 2025:** Project started
+- **December 12, 2025:** v1.0.0 released
 
 ---
 
